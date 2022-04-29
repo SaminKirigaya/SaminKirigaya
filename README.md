@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... PHP, Django, SQL
 - 💪🏻 Currently working in ... Deep Learning, Natural Language Processing
 - 💞️ I’m looking to collaborate on ... RNN, Natural Language Processing, Image Processing
+- 🤗 Ask me about ... Python, HTML, CSS, Reverse Shell Coding, Deep Learning/Machine Learning, ANN/CNN/RNN Network, Natural Language Processing, Arduino, Unreal Engine, Zbrush 3D Modeling
 - 👊🏼 My aim is ... To create a open source world
 - 📫 How to reach me ...(Mail Me) arnobsamin95@gmail.com 
 
