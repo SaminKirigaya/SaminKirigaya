@@ -1,4 +1,4 @@
-<img src="software-computer-code-1940x900_35196.jpg" width="1940" height="150">
+- <img src="software-computer-code-1940x900_35196.jpg" width="1940" height="200">
 - 👋 Hello, I’m @SaminKirigaya!/br
 - 👀 I’m interested in ... Python, Deep Learning, RNN, Arduino Coding
 - 🌱 I’m currently learning ... PHP, Django, SQL
