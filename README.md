@@ -1,4 +1,4 @@
-  👋 Hello, I’m @SaminKirigaya!
+- 👋 Hello, I’m @SaminKirigaya!
 - 👀 I’m interested in ... Python, Deep Learning, RNN, Arduino Coding
 - 🌱 I’m currently learning ... PHP, Django, SQL
 - 💪🏻 Currently working in ... Deep Learning, Natural Language Processing
