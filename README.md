@@ -1,5 +1,5 @@
 - <img src="software-computer-code-1940x900_35196.jpg" width="1940" height="200">
-- 👋 Hello, I’m @SaminKirigaya!/br
+- 👋 Hello, I’m @Samin Arnob!
 - 👀 I’m interested in ... Python, Deep Learning, RNN, Arduino Coding
 - 🌱 I’m currently learning ... PHP, Django, SQL
 - 💪🏻 Currently working in ... Deep Learning, Natural Language Processing
