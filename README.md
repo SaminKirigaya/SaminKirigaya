@@ -1,4 +1,4 @@
-- [software-computer-code-1940x900_35196](https://user-images.githubusercontent.com/104618775/166090109-88bb4ba6-d327-4700-aced-5e8140b7e65b.jpg)
+-  [software-computer-code-1940x900_35196](https://user-images.githubusercontent.com/104618775/166090109-88bb4ba6-d327-4700-aced-5e8140b7e65b.jpg)
 -  👋 Hello, I’m @SaminKirigaya!
 - 👀 I’m interested in ... Python, Deep Learning, RNN, Arduino Coding
 - 🌱 I’m currently learning ... PHP, Django, SQL
