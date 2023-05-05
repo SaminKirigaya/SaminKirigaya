@@ -1,4 +1,4 @@
-- <img src="dp.jpg" width="1940" height="350">
+- <img src="dp.jpg" class="img-fluid" >
 - 👋 Hello, I’m @Samin Arnob!
 - 👀 I’m interested in ... Python, Deep Learning, RNN, Arduino Coding, PHP, Javascript, Node.js, Laravel, Slim, MVC Framework
 - 🌱 I’m currently learning ... Asp.net
