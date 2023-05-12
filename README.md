@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Asp.Net 😱😭**
 
-- 👯 I’m looking to collaborate on **PHP Framework, Slim, Bootstrap, CSS, Laravel, Kotlin projects 😃😃**
+- 👯 I’m looking to collaborate on **PHP Framework, Slim, JS, Bootstrap, CSS, Laravel, Kotlin projects 😃😃**
 
 - 🤝 I’m looking for help with **PHP MVC, Laravel, Kotlin projects 😇**
 
