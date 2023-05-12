@@ -1,7 +1,7 @@
 - <img src="dp.jpg" width="1940" height="350">
 <h1 align="center">Hi 👋, I'm Samin Arnob</h1>
 <h3 align="center">A passionate android and fullstack web developer from Bangladesh.</h3>
-<img align="right" src="https://giphy.com/embed/ZVik7pBtu9dNS" width="400" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" >
+<iframe align="right" src="https://giphy.com/embed/ZVik7pBtu9dNS" width="400" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" ></iframe>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saminkirigaya&label=Profile%20views&color=0e75b6&style=flat" alt="saminkirigaya" /> </p>
 
