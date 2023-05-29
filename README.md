@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **saminyeasararnob@gmail.com**
 
-- ⚡ Fun fact **I think I am a guy who love to imagine and dream 😵😵**
+- ⚡ Fun fact **I code and study so much that I think one day I will get ticket to mental hospital 😵😵**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
