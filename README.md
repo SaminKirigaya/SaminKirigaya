@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **PHP MVC, Laravel, Kotlin projects 😇**
 
-- 💬 Ask me about **PHP, Python, Slim, JS, Bootstrap, CSS, Laravel, NLP, Kotlin 😎**
+- 💬 Ask me about **PHP, Python, Slim, React JS, JS, Bootstrap, CSS, Laravel, NLP, Kotlin 😎**
 
 - 📫 How to reach me **saminyeasararnob@gmail.com**
 
