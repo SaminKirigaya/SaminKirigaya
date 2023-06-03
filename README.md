@@ -1,4 +1,4 @@
-- <img src="Prodis.jpg" width="1940" height="350">
+## <img src="Prodis.jpg" width="1940" height="350">
 <h1 align="center">Hi 👋, I'm Samin Arnob</h1>
 <h3 align="center">A passionate android and fullstack web developer from Bangladesh.</h3>
 
