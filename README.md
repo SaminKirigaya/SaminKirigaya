@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saminkirigaya&label=Profile%20views&color=0e75b6&style=flat" alt="saminkirigaya" /> </p>
 
-- 🔭 I’m currently working on **Python, Deep Learning, Natural Language Processing, PHP, Bootstrap, JS, Laravel, Slim, MVC framework, Kotlin 🧐**
+- 🔭 I’m currently working on **Python, Deep Learning, PHP, Node Js, React Js, Express Js, Mongo, Sql, Bootstrap, JS/Es7, Laravel, Slim, MVC framework, Kotlin 🧐**
 
 - 🌱 I’m currently learning **Asp.Net 😱😭**
 
-- 👯 I’m looking to collaborate on **PHP Framework, Slim, JS, Bootstrap, CSS, Laravel, Kotlin projects 😃😃**
+- 👯 I’m looking to collaborate on **MERN, PHP Framework, Node Js, React Js, Express Js, Mongo, Sql, Slim, JS/Es7, Bootstrap, CSS, Laravel, Kotlin projects 😃😃**
 
-- 🤝 I’m looking for help with **PHP MVC, Laravel, Kotlin projects 😇**
+- 🤝 I’m looking for help with **Asp Net, Kotlin projects 😇**
 
-- 💬 Ask me about **PHP, Python, Slim, React JS, JS, Bootstrap, CSS, Laravel, NLP, Kotlin 😎**
+- 💬 Ask me about **PHP, Python, Slim, React JS, Node Js, Express Js, MERN, JS/Es7, Bootstrap, CSS, Laravel, NLP, Kotlin 😎**
 
 - 📫 How to reach me **saminyeasararnob@gmail.com**
 
